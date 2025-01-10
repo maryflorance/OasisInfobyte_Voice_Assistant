@@ -1,0 +1,6 @@
+speechrecognition==3.13.0
+pyttsx3==2.98
+requests==2.32.3
+pyaudio==0.2.14
+transformers==4.24.0
+paho-mqtt==1.6.1
